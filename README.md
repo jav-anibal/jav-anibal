@@ -15,13 +15,15 @@ Trabajo con **MySQL** y **Postgres**, -> APIs RESTful y despliegue de servicios 
 ## Proyectos destacados
 
 **[Quiz-Backend-SpringBoot](https://github.com/javAnibal/quiz-backend-springboot.git)**  
-Backend para cuestioanrio de preguntas con Spring Boot y Postgres -  JSON.  
+Backend para cuestionario de preguntas con Spring Boot y Postgres -  JSON.  
 - API REST  
 - Docker Compose  
 - JPA para persistencia de datos  
 
-**[Proyecto 2](https://github.com/javAnibal/proyecto2)**  
-Aun por completar 
+**[ERP-Concesionarios](https://github.com/jav-anibal/hibernate-jpa-erp-concesionario.git)**  
+Backend que modela un sistema de concesionarios de coches. 
+Incluye diseño de dominio, relaciones entre entidades, persistencia con Hibernate - Jpa - Java 
+Seed de datos iniciales y base para lógica de negocio (ventas, reparaciones y gestión de vehículos).
 
 ---
 ## Contacto
