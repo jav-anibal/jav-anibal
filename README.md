@@ -1,4 +1,4 @@
-# 👋 Hola, soy Aníbal Solano
+# Hola, soy Anibal Solano
 
 ## Backend Developer | Java · Spring Boot · PostgreSQL · Docker
 
@@ -8,7 +8,7 @@ Mi experiencia combina desarrollo de software y conocimientos de sistemas, permi
 
 ---
 
-## 🚀 Tecnologías
+## Tecnologías
 
 ### Backend
 
@@ -43,9 +43,9 @@ Mi experiencia combina desarrollo de software y conocimientos de sistemas, permi
 
 ---
 
-## 📌 Proyectos destacados
+## Proyectos destacados
 
-### 🍽️ ConectaMesa
+### ConectaMesa
 
 Sistema de comanda digital y TPV para hostelería.
 
@@ -71,7 +71,7 @@ Sistema de comanda digital y TPV para hostelería.
 
 ---
 
-### ☕ Anivero
+### Anivero
 
 Plataforma SaaS multi-tenant orientada a hostelería y pedidos mediante QR.
 
@@ -95,7 +95,7 @@ Plataforma SaaS multi-tenant orientada a hostelería y pedidos mediante QR.
 
 ---
 
-### 🧠 ERP Concesionarios
+### ERP Concesionarios
 
 Backend que modela un sistema de gestión para concesionarios de vehículos.
 
