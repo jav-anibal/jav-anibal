@@ -8,41 +8,6 @@ Mi experiencia combina desarrollo de software y conocimientos de sistemas, permi
 
 ---
 
-## Tecnologías
-
-### Backend
-
-* Java
-* Spring Boot
-* JPA / Hibernate
-* REST API
-* Lombok
-
-### Bases de datos
-
-* PostgreSQL
-* MySQL
-
-### Frontend
-
-* Flutter
-* HTML
-* CSS
-
-### Infraestructura
-
-* Docker
-* Docker Compose
-* Linux
-* Git / GitHub
-
-### Testing y herramientas
-
-* Postman
-* pgAdmin
-
----
-
 ## Proyectos destacados
 
 ### ConectaMesa
@@ -116,6 +81,42 @@ Backend que modela un sistema de gestión para concesionarios de vehículos.
 🔗 https://github.com/jav-anibal/hibernate-jpa-erp-concesionario
 
 ---
+
+## Tecnologías
+
+### Backend
+
+* Java
+* Spring Boot
+* JPA / Hibernate
+* REST API
+* Lombok
+
+### Bases de datos
+
+* PostgreSQL
+* MySQL
+
+### Frontend
+
+* Flutter
+* HTML
+* CSS
+
+### Infraestructura
+
+* Docker
+* Docker Compose
+* Linux
+* Git / GitHub
+
+### Testing y herramientas
+
+* Postman
+* pgAdmin
+
+---
+
 
 ## 📫 Contacto
 
