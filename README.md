@@ -7,6 +7,7 @@ Desarrollador especializado en backend, APIs REST y bases de datos.
 | **Proyecto Principal**    | 
 | -------------------------------------------------------------------------------------------  |
 | 👉 [TPV - CONECTA MESA](https://github.com/jav-anibal/conectamesa-showcase.git) 
+| 👉 [SaSS - ANIVERO](https://github.com/jav-anibal/anivero.git) 
 
 | **Experiencia Laboral**   | 
 | -------------------------------------------------------------------------------------------  | 
