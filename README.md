@@ -4,9 +4,13 @@ Anibal Solano F.
 
 Desarrollador especializado en backend, APIs REST y bases de datos.
 
-| Proyecto Principal    | Experiencia                     |
-| --------------------- | ------------------------------- |
-| C | linkedin.com/in/anibal-solano-f |
+| Proyecto Principal    | 
+| -------------------------------------------------------------------------------------------  |
+| 👉 [TPV - CONECTA MESA](https://github.com/jav-anibal/conectamesa-showcase.git) 
+
+| Experiencia Laboral   | 
+| --------------------- | -------------------------------------------------------------------  | 
+| 👉 [ERP - AGRICOLA](https://github.com/jav-anibal/arquitectura_nueva_erp_agromartin.git)     |
 
 - Proyecto principal: ConectaMesa (plataforma de gestión para hostelería)
 - Experiencia: ERP Costes Agrícolas (AGROMARTÍN)
