@@ -1,7 +1,7 @@
 # Anibal Solano F.
 
 ## **Backend Developer | Java · Spring Boot · PostgreSQL · Docker**
----
+
 Desarrollador especializado en backend, APIs REST y bases de datos.
 
 | **Proyecto Principal**    | 
@@ -25,7 +25,7 @@ Desarrollador especializado en backend, APIs REST y bases de datos.
 | Java            | PostgreSQL     | Docker          | Flutter  |
 | Spring Boot     | MySQL          | Docker Compose  | HTML     |
 | JPA / Hibernate | SQL Server     | Linux           | CSS      |
-| REST APIs       | Supabase       | Git             |          |
+| REST APIs       | Supabase       | Git             | Vercel   |
 
 ---
 
