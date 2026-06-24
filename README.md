@@ -8,9 +8,13 @@ Desarrollador especializado en backend, APIs REST y bases de datos.
 | -------------------------------------------------------------------------------------------  |
 | 👉 [TPV - CONECTA MESA](https://github.com/jav-anibal/conectamesa-showcase.git) 
 
+---
+
 | **Experiencia Laboral**   | 
-| --------------------- | -------------------------------------------------------------------  | 
+| -------------------------------------------------------------------------------------------  | 
 | 👉 [ERP - COSTES AGRICOLA](https://github.com/jav-anibal/arquitectura_nueva_erp_agromartin.git)
+
+---
 
 
 | GitHub | LinkedIn | Email |
