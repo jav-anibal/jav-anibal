@@ -1,119 +1,69 @@
 # Anibal Solano F.
 
-## **Backend Developer | Java · Spring Boot · PostgreSQL · Docker**
+## Backend Developer | Java · Spring Boot · PostgreSQL · Docker
 
-Desarrollador especializado en backend, APIs REST y bases de datos.
+Desarrollador orientado a backend, APIs REST, modelado relacional y sistemas con reglas de negocio reales.
 
-| **Proyecto Principal**    | 
-| -------------------------------------------------------------------------------------------  |
-| 👉 [TPV - CONECTA MESA](https://github.com/jav-anibal/conectamesa-showcase.git) 
-| 👉 [SaaS - ANIVERO](https://github.com/jav-anibal/anivero.git) 
-| 👉 [Quizz - REST API](https://github.com/jav-anibal/quiz-backend-springboot.git) 
-| 👉 [Python - Interfaz-Windows](https://github.com/jav-anibal/interfaces-windows-linux.gi) 
+## Proyectos destacados
 
+### 1. ConectaMesa — Architecture Case Study
 
-| **Experiencia Laboral**   | 
-| -------------------------------------------------------------------------------------------  | 
-| 👉 [ERP - COSTES AGRICOLA](https://github.com/jav-anibal/arquitectura_nueva_erp_agromartin.git)
+Sistema de gestión operativa para hostelería diseñado alrededor de mesas, sesiones, pedidos, cocina y caja.
 
+**Backend:** Java · Spring Boot · JPA/Hibernate · PostgreSQL · Docker
 
-| GitHub | LinkedIn | Email |
-|---------|----------|--------|
-| github.com/jav-anibal | linkedin.com/in/anibal-solano-f | a88anibal@gmail.com |
+**Trabajo técnico:** arquitectura por capas, modelado de dominio, estados de negocio, consistencia transaccional y escenarios concurrentes.
 
----
+[Ver ConectaMesa Showcase](https://github.com/jav-anibal/conectamesa-showcase)
 
-## Stack Principal
+### 2. Quiz Backend — Spring Boot REST API
 
-| Backend         | Bases de Datos | Infraestructura | Frontend |
-| --------------- | -------------- | --------------- | -------- |
-| Java            | PostgreSQL     | Docker          | Flutter  |
-| Spring Boot     | MySQL          | Docker Compose  | HTML     |
-| JPA / Hibernate | SQL Server     | Linux           | CSS      |
-| REST APIs       | Supabase       | Git             | Vercel   |
+Backend público y ejecutable para comprobar directamente mi forma de trabajar con Spring.
 
----
+**Stack:** Java 21 · Spring Boot · PostgreSQL · JPA/Hibernate · Docker Compose · JUnit 5 · Mockito · Testcontainers
 
-## Proyectos Destacados
+[Ver código](https://github.com/jav-anibal/quiz-backend-springboot)
 
-### ConectaMesa
+### 3. ERP Concesionario — JPA / Hibernate
 
-**Plataforma de gestión para hostelería**
+Proyecto centrado en persistencia relacional y modelado de dominio.
 
-**Funcionalidades**
+**Trabajo técnico:** relaciones 1:N, N:M y 1:1, EntityManager, JPQL y transacciones.
 
-* Carta digital QR
-* Gestión de mesas y pedidos
-* PDA para camareros
-* TPV
-* Monitor de cocina
-* Gestión operativa de comandas
+[Ver repositorio](https://github.com/jav-anibal/hibernate-jpa-erp-concesionario)
 
-**Tecnologías**
-Java 17 · Spring Boot · PostgreSQL · Flutter · Docker
+### 4. AniVero — SaaS Architecture Showcase
 
-**Aspectos Técnicos**
-REST APIs · JPA/Hibernate · Gestión de estados · Control de concurrencia · ESC/POS · Arquitectura cliente-servidor
+Caso de estudio de una plataforma SaaS multi-tenant para hostelería.
 
-**Repositorio**
-👉 [TPV - CONECTA MESA](https://github.com/jav-anibal/conectamesa-showcase.git) 
+**Áreas:** PostgreSQL · seguridad multi-tenant · pagos · arquitectura SaaS.
 
----
+[Ver showcase](https://github.com/jav-anibal/anivero-showcase)
 
-### AniVero
+## Stack principal
 
-**Backend SaaS Multi-Tenant para hostelería**
+| Backend | Bases de datos | Infraestructura | Complementario |
+| --- | --- | --- | --- |
+| Java | PostgreSQL | Docker | Flutter |
+| Spring Boot | MySQL | Docker Compose | REST |
+| JPA / Hibernate | SQL | Linux | Git |
+| JUnit / Mockito | | Testcontainers | |
 
-**Tecnologías**
-Supabase · PostgreSQL · Stripe · Deno · Edge Functions
+## Experiencia aplicada
 
-**Aspectos Técnicos**
-Multi-tenant · Row Level Security · JWT · Stripe Connect · Idempotencia · Rate Limiting
+He trabajado también en la evolución de software de gestión de costes agrícolas, con Python, PyQt6, PostgreSQL, SQL Server, automatización e integración de fuentes de datos.
 
-**Repositorio**
-github.com/jav-anibal/anivero
+## Actualmente enfocado en
 
----
+- Backend Java / Spring Boot
+- APIs REST
+- PostgreSQL y modelado relacional
+- Testing automatizado
+- Docker
+- arquitectura de aplicaciones
 
-### ERP Concesionarios
+## Contacto
 
-**Modelado de dominio empresarial y persistencia avanzada**
-
-**Tecnologías**
-Java · Hibernate · JPA · MySQL
-
-**Aspectos Técnicos**
-Diseño de entidades · Relaciones complejas · Persistencia · Arquitectura por capas
-
-**Repositorio**
-github.com/jav-anibal/hibernate-jpa-erp-concesionario
-
----
-
-## Experiencia
-
-### ERP Costes Agrícolas — AGROMARTÍN
-
-Participación en la evolución de una aplicación de escritorio para gestión de costes agrícolas.
-
-**Stack**
-Python · PyQt6 · PostgreSQL · SQL Server · OCR · APIs SIGPAC
-
-**Contribuciones**
-
-* Desarrollo de nuevas funcionalidades
-* Integración de fuentes de datos
-* Automatización de procesos
-* Optimización de rendimiento
-* Análisis funcional
-
----
-
-## Actualmente Interesado En
-
-* Backend Java y Spring Boot
-* Arquitectura de aplicaciones
-* PostgreSQL
-* Docker
-* Sistemas SaaS Multi-Tenant
-* Diseño de APIs REST
+- LinkedIn: https://www.linkedin.com/in/anibal-solano-f/
+- GitHub: https://github.com/jav-anibal
+- Email: a88anibal@gmail.com
